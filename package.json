@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/DavinaLeong/Learn-NodeJS-JWT#readme",
   "dependencies": {
+    "bcrypt": "^2.0.1",
     "express": "^4.16.3",
-    "jsonwebtoken": "^8.3.0"
+    "jsonwebtoken": "^8.3.0",
+    "moment": "^2.22.2"
   }
 }
