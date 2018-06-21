@@ -1,6 +1,13 @@
 /**
  * Video: Node.js API Authentication With JWT
  * Link: https://www.youtube.com/watch?v=7nafaH9SddU
+ * 
+ * Test URLs:
+ * http://localhost:5000/api/login
+ * http://localhost:5000/api/posts
+ * 
+ * Header:
+ * Authorization    bearer <token>
  */
 
 'use strict';
